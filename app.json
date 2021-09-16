@@ -1,4 +1,5 @@
   {
+    "stack": "heroku-18"
     "name": "Refinery Example App",
     "description": "A demonstration website using Refinery with some test data.",
     "website": "https://www.refinerycms.com/",
